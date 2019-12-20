@@ -25,3 +25,6 @@ vscode
 /nbdist/
 /.nb-gradle/
 
+### Visual Studio ###
+/.vs/
+
